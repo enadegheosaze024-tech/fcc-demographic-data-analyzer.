@@ -1,11 +1,12 @@
-This is my second project in the freeCodeCamp Data Analysis with Python certification. I used the Pandas library to analyze a dataset of demographic data extracted from the 1994 Census database
+This is the second project in the freeCodeCamp Data Analysis with Python certification. I used the Pandas library to analyze a dataset of demographic data extracted from the 1994 Census database
 
 **Project Purpose:**
 The goal of this program is to perform a descriptive statistical analysis on a population dataset to identify relationships between education, work habits, and income levels.By running this code, we can answer specific demographic questions such as:
 1. How many people of each race are represented in the data?
 2. What is the average age of men?
 3. What is the percentage of people who have a Bachelor's degree?
-4. Does a higher education (Bachelors, Masters, or Doctorate) actually lead to a higher salary ($>50K$)?What are the minimum hours a person works per week, and what percentage of those "minimum workers" are high earners?Which country has the highest percentage of people that earn $>50K$?
+4. Does a higher education (Bachelors, Masters, or Doctorate) actually lead to a higher salary ($>50K$)?What are the minimum hours a person works per week, and what percentage of those "minimum workers" are high earners?
+5. Which country has the highest percentage of people that earn $>50K$?
 
 **The Learning Journey and Challenges:**
 As a learner, this project was a significant step up from basic NumPy calculations. I encountered several "real-world" coding hurdles that taught me more than the documentation ever could:
