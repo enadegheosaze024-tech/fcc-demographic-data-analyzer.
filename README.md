@@ -1,3 +1,5 @@
+### Demographic Data Analyzer 
+
 This is the second project in the freeCodeCamp Data Analysis with Python certification. I used the Pandas library to analyze a dataset of demographic data extracted from the 1994 Census database
 
 **Project Purpose:**
